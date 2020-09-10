@@ -1,16 +1,20 @@
 li {
-  padding: 5px;
+  padding: 9px;
   margin: 5px;
   background: #faebd7;
 }
 
 body {
-  background-image: url("https://i.pinimg.com/originals/5c/7c/d6/5c7cd6368d22ac059c9aef589babc948.gif");
+  background-image: url("https://i.pinimg.com/originals/8a/27/09/8a2709aff18c1e20219e89f6d9da01f2.gif");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 90%;
   background-color: #cccccc;
+  text-shadow: 4px 4px 4px #aaa;
+  font-family: 'Lobster', cursive;
  }
+
+
 
 .label {
   font-weight: bold;
